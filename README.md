@@ -85,8 +85,7 @@ To run this project on your own machine, follow these steps:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name
+git clone https://github.com/BlachThunder6302/Caltech-256-Image-Classification.git
 
 # 2. Install the required dependencies
 pip install -r requirements.txt
